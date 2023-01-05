@@ -1,0 +1,13 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+# plot files generated for the paper
+plots/
